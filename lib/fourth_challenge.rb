@@ -22,6 +22,8 @@ def fourth_challenge
    }
 }
 
-  epic_tragedy[capulet][3][1][]
+  epic_tragedy[0][2][1] = "dead"
+  epic_tragedy[capulet][2][1] = "dead"
+  
 
 end
